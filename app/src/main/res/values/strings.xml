@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Keijuu</string>
+    <string-array name="categorias">
+        <item>Frutas</item>
+        <item>Vegetais</item>
+        <item>Carnes</item>
+        <item>Bebidas</item>
+        <item>Laticínios</item>
+        <item>Grãos</item>
+    </string-array>
+
+</resources>
